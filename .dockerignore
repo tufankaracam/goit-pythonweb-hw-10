@@ -1,0 +1,13 @@
+env
+.gitignore
+alembic
+.dockerignore
+alembic.ini
+__pycache__/
+*.pyc
+*.pyo
+docker-compose.yaml
+migrations
+postgres_data
+.env_default
+dockerfile
